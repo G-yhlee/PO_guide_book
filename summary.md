@@ -1,7 +1,7 @@
 # Summary
 
-* [머리말](README.md)
-* [소개](g3doc/index.md)
+* [Perfone Guide Book](README.md)
+<!-- * [소개](g3doc/index.md)
 * [시작하기](g3doc/get_started/index.md)
     * [다운로드 및 설치](g3doc/get_started/os_setup.md)
     * [기본적인 사용법](g3doc/get_started/basic_usage.md)
@@ -90,7 +90,7 @@
     * [용어](g3doc/resources/glossary.md)
     * [랭크, 크기, 타입](g3doc/resources/dims_types.md)
     * [텐서플로우 버전](g3doc/resources/versions.md)
-    * [로드맵](g3doc/resources/roadmap.md)
+    * [로드맵](g3doc/resources/roadmap.md) -->
 
 <!-- # Summary -->
 

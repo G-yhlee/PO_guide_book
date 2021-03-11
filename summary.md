@@ -1,7 +1,7 @@
 # Summary
 
 * [Perfone Guide Book](https://github.com/G-yhlee/PO_guide_book/tree/b641024ffeafef8cc20485ef1772b4388b1ef7a5/book/README.md)
-* [목차](book/index.md)
+<!-- * [목차](book/index.md)
 * [시작하기](book/start/index.md)
   * [다운로드 및 설치]()
   * [기본적인 개념]()
@@ -11,7 +11,7 @@
   * [테스트]()
 * [심화문서]()
   * [스크립트 레코드]()
-  * [스크립트]()
+  * [스크립트]() -->
 
 
 <!-- # Table of contents

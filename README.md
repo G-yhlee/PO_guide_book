@@ -1,7 +1,7 @@
-# Perfone Guide Book
+# Perfone Guide Book2
+
 * 마크다운 언어로 작성된 PO 가이드 북 입니다. PO를 학습하는 과정에 필요한 **핵심적인** 내용을 담고있습니다. 
 * 이 가이드 북은 깃 허브에 연동되었습니다 \(2021.03.02\)  
-
 
 ## Perfone 소개
 
@@ -11,11 +11,11 @@
 
 ## INFO
 
-![](.gitbook/assets/perfone_monitor2.jpg)
+![](.gitbook/assets/perfone_monitor2%20%2819%29%20%2810%29%20%289%29.jpg)
 
-[ Perfone GitHub] https://github.com/G-yhlee/PO_guide_book  
-[ Perfone install ] http://www.gridone.co.kr/community/download  
-  - 임시계정 : guest_001
-  - 비밀번호 : ****
+\[ Perfone GitHub\] [https://github.com/G-yhlee/PO\_guide\_book](https://github.com/G-yhlee/PO_guide_book)  
+\[ Perfone install \] [http://www.gridone.co.kr/community/download](http://www.gridone.co.kr/community/download)
 
+* 임시계정 : guest\_001
+* 비밀번호 : _\*\*_
 

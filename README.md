@@ -13,9 +13,9 @@
 
 ![](.gitbook/assets/perfone_monitor2.jpg)
 
-[ Perfone GitHub] https://github.com/G-yhlee/PO_guide_book
-[ Perfone install ] http://www.gridone.co.kr/community/download
+[ Perfone GitHub] https://github.com/G-yhlee/PO_guide_book  
+[ Perfone install ] http://www.gridone.co.kr/community/download  
   - 임시계정 : guest_001
-  - 비밀번호 : ************
+  - 비밀번호 : ****
 
 

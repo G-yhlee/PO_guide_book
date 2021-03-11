@@ -33,7 +33,7 @@ git push -u origin main
 ##### last commit
 > ...................................................................  
 git add .  
-git commit -m "update::readme.md"  
+git commit -m "update::i"  
 git push -u origin main  
 > ...................................................................  
 
